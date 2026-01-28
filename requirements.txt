@@ -1,0 +1,18 @@
+# Core LangChain
+langchain
+langchain-community
+
+# Gemini (Google Generative AI)
+google-generativeai
+langchain-google-genai
+
+# Vector Store
+faiss-cpu
+
+# Document Loaders
+pypdf
+python-docx
+
+# Utilities
+python-dotenv
+tiktoken

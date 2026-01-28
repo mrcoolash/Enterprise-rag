@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda / virtual envs
+.env/
+.conda/
+.envs/
+
+# Streamlit
+.streamlit/
+
+# Vector DB / temp files
+*.faiss
+*.index
+*.pkl
+
+# Uploaded PDFs
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
